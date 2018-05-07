@@ -1,3 +1,3 @@
 # spotyJs
 Spotify Library for JavaScript.
-### Readme will be updated Soon. :bowtie: :bowtie:
+### _Readme will be updated Soon._ :bowtie: :bowtie:
